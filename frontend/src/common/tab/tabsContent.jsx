@@ -1,2 +1,2 @@
 import React from 'react';
-export default (props) => <div>{props.children}</div>;
+export default (props) => <div className="tab-content">{props.children}</div>;
